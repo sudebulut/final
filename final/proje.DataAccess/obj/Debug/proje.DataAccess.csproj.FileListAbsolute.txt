@@ -1,0 +1,6 @@
+C:\Users\MONSTER\source\repos\final\proje.DataAccess\bin\Debug\proje.DataAccess.dll
+C:\Users\MONSTER\source\repos\final\proje.DataAccess\bin\Debug\proje.DataAccess.pdb
+C:\Users\MONSTER\source\repos\final\proje.DataAccess\obj\Debug\proje.DataAccess.csproj.AssemblyReference.cache
+C:\Users\MONSTER\source\repos\final\proje.DataAccess\obj\Debug\proje.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\source\repos\final\proje.DataAccess\obj\Debug\proje.DataAccess.dll
+C:\Users\MONSTER\source\repos\final\proje.DataAccess\obj\Debug\proje.DataAccess.pdb

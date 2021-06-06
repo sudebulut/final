@@ -1,0 +1,6 @@
+C:\Users\MONSTER\source\repos\final\Proje.Business\bin\Debug\Proje.Business.dll
+C:\Users\MONSTER\source\repos\final\Proje.Business\bin\Debug\Proje.Business.pdb
+C:\Users\MONSTER\source\repos\final\Proje.Business\obj\Debug\Proje.Business.csproj.AssemblyReference.cache
+C:\Users\MONSTER\source\repos\final\Proje.Business\obj\Debug\Proje.Business.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\source\repos\final\Proje.Business\obj\Debug\Proje.Business.dll
+C:\Users\MONSTER\source\repos\final\Proje.Business\obj\Debug\Proje.Business.pdb
